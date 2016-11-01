@@ -1,2 +1,2 @@
 # LetsGoStudy
-AreWeDoingThisRight
+Finding Times To Study
